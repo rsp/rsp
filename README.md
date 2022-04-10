@@ -7,7 +7,7 @@
 [![LinkedIn Connections][linkedin-connections-img]][linkedin-connections-url]
 
 [![Stack Overflow Reputation][stackoverflow-reputation-img]][stackoverflow-url]
-[![Software Engineering Reputation][software-engineering-reputation-img]][software-engineering-url]
+[![Software Engineering Reputation][softwareengineering-reputation-img]][softwareengineering-url]
 
 <br/>
 [![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
