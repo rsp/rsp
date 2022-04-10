@@ -32,7 +32,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 -->
 
 💖
-[![Open Source][opensource-img]][osi-url]]
+[![Open Source][opensource-img]][osi-url]
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
 [![Go][go-img]][go-url]
