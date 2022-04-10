@@ -1,5 +1,4 @@
-<img src="https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg" width="100%" /
->
+<img src="https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg" width="100%">
 
 🤝
 [![GitHub Followers][github-followers-img]][github-followers-url]
