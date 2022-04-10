@@ -45,5 +45,5 @@
 [superuser-reputation-img]: https://img.shields.io/stackexchange/superuser/r/160960?style=social&logo=stackexchange&label=Super%20User
 [superuser-url]: https://superuser.com/users/160960/rsp
 
-[webmasters-reputation-img]: https://img.shields.io/stackexchange/superuser/r/18617?style=social&logo=stackexchange&label=Pro%20Webmasters
+[webmasters-reputation-img]: https://img.shields.io/stackexchange/webmasters/r/18617?style=social&logo=stackexchange&label=Pro%20Webmasters
 [webmasters-url]: https://webmasters.stackexchange.com/users/18617/rsp
