@@ -142,7 +142,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [vim-img]: https://img.shields.io/badge/Vim--lightgrey?logo=vim&style=social
 [vim-url]: https://www.vim.org/
 
-[sublime-img]: https://img.shields.io/badge/Sublime--lightgrey?logo=sublimetext&style=social
+[sublime-img]: https://img.shields.io/badge/Sublime_Text--lightgrey?logo=sublimetext&style=social
 [sublime-url]: https://www.sublimetext.com/
 
 [atom-img]: https://img.shields.io/badge/Atom--lightgrey?logo=atom&style=social
@@ -151,7 +151,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [brackets-img]: https://img.shields.io/badge/brackets--lightgrey?logo=brackets&style=social
 [brackets-url]: https://brackets.io/
 
-[vscode-img]: https://img.shields.io/badge/Code--lightgrey?logo=visualstudiocode&style=social
+[vscode-img]: https://img.shields.io/badge/Visual_Studio_Code--lightgrey?logo=visualstudiocode&style=social
 [vscode-url]: https://code.visualstudio.com/
 
 [zed-img]: https://img.shields.io/badge/Zed--lightgrey?logo=rust&style=social
