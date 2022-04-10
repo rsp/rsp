@@ -7,6 +7,7 @@
 [![LinkedIn Connections][linkedin-connections-img]][linkedin-connections-url]
 
 [![Stack Overflow Reputation][stackoverflow-reputation-img]][stackoverflow-url]
+[![Software Engineering Reputation][software-engineering-reputation-img]][software-engineering-url]
 
 <br/>
 [![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -24,5 +25,7 @@
 [linkedin-connections-img]: https://img.shields.io/badge/LinkedIn_Connections-11511-lightgrey?logo=linkedin&style=social
 [linkedin-connections-url]: https://www.linkedin.com/in/pocztarski/
 
-[stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack_Overflow_Reputation
-[softwareengineering-reputation-img]: https://img.shields.io/stackexchange/softwareengineering/r/18691?style=social&logo=softwareengineering&label=software_engineering_Reputation
+[stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow%20Reputation
+
+[softwareengineering-reputation-img]: https://img.shields.io/stackexchange/softwareengineering/r/18691?style=social&logo=softwareengineering&label=Software%20Engineering
+[softwareengineering-url]: https://softwareengineering.stackexchange.com/users/18691/
