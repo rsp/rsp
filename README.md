@@ -49,14 +49,16 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Void][void-img]][void-url]
 [![GNU][gnu-img]][gnu-url]
 [![Linux][linux-img]][linux-url]
+<!--
+[![SmartOS][smartos-img]][smartos-url]
+[![illumos][illumos-img]][illumos-url]
+-->
 
 👍
 [![Bash][bash-img]][bash-url]
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
 [![Vagrant][vagrant-img]][vagrant-url]
-[![SmartOS][smartos-img]][smartos-url]
-[![illumos][illumos-img]][illumos-url]
 
 ⌨️
 [![Vim][vim-img]][vim-url]
