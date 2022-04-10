@@ -6,7 +6,7 @@
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
 [![LinkedIn Connections][linkedin-connections-img]][linkedin-connections-url]
 
-[![Stack Overflow Reputation][stackoverflow-img]][stackoverflow-url]
+[![Stack Overflow Reputation][stackoverflow-reputation-img]][stackoverflow-url]
 
 <br/>
 [![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
