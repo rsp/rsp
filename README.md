@@ -68,6 +68,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
 [![Hubris][hubris-img]][hubris-url]
+[![Redox][redox-img]][redox-url]
 [![BoksOS][boksos-img]][boksos-url]
 [![Zen][zenos-img]][zenos-url]
 
@@ -91,6 +92,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [hubris-img]: https://img.shields.io/badge/Hubris--lightgrey?logo=rust&style=social
 [hubris-url]: https://hubris.oxide.computer/
+
+[redox-img]: https://img.shields.io/badge/Redox--lightgrey?logo=rust&style=social
+[redox-url]: https://www.redox-os.org/
 
 [boksos-img]: https://img.shields.io/badge/BoksOS--lightgrey?logo=zig&style=social
 [boksos-url]: https://boksos.com/
