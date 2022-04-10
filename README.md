@@ -51,3 +51,6 @@
 
 [serverfault-reputation-img]: https://img.shields.io/stackexchange/serverfault/r/138110?style=social&logo=stackexchange&label=Server%20Fault
 [serverfault-url]: https://serverfault.com/users/138110/rsp
+
+[freelancing-reputation-img]: https://img.shields.io/stackexchange/freelancing/r/5696?style=social&logo=stackexchange&label=Freelancing
+[freelancing-url]: https://freelancing.stackexchange.com/users/5696/rsp
