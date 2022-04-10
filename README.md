@@ -69,6 +69,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Zed][zed-img]][zed-url]
 [![Hubris][hubris-img]][hubris-url]
 [![BoksOS][boksos-img]][boksos-url]
+[![Zen][zenos]][zenos-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -91,8 +92,11 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [hubris-img]: https://img.shields.io/badge/🔥%20Hubris--lightgrey?logo=hubris&style=social
 [hubris-url]: https://hubris.oxide.computer/
 
-[boksos-img]: https://img.shields.io/badge/🔥%20BoksOS--lightgrey?logo=boksos&style=social
+[boksos-img]: https://img.shields.io/badge/BoksOS--lightgrey?logo=zig&style=social
 [boksos-url]: https://boksos.com/
+
+[zenos-img]: https://img.shields.io/badge/Zen--lightgrey?logo=zig&style=social
+[zenos-url]: https://github.com/AndreaOrru/zen
 
 [bash-img]: https://img.shields.io/badge/Bash--lightgrey?logo=bash&style=social
 [bash-url]: https://www.gnu.org/software/bash/
