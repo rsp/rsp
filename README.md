@@ -14,7 +14,8 @@
 [![Pro Webmasters][webmasters-reputation-img]][webmasters-url]
 [![Server Fault][serverfault-reputation-img]][serverfault-url]
 [![Freelancing][freelancing-reputation-img]][freelancing-url]
-[![Photography][photography-reputation-img]][photography-url]
+[![Photography][photo-reputation-img]][photo-url]
+[![Code Review][codereview-reputation-img]][codereview-url]
 
 <br/>
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -57,5 +58,11 @@
 [freelancing-reputation-img]: https://img.shields.io/stackexchange/freelancing/r/5696?style=social&logo=stackexchange&label=Freelancing
 [freelancing-url]: https://freelancing.stackexchange.com/users/5696/rsp
 
-[photography-reputation-img]: https://img.shields.io/stackexchange/photography/r/35590?style=social&logo=stackexchange&label=Photography
-[photography-url]: https://photo.stackexchange.com/users/35590/rsp
+[softwarerecs-reputation-img]: https://img.shields.io/stackexchange/softwarerecs/r/10574?style=social&logo=stackexchange&label=Software%20Recommendations
+[softwarerecs-url]: https://softwarerecs.stackexchange.com/users/10574/rsp
+
+[photo-reputation-img]: https://img.shields.io/stackexchange/photo/r/35590?style=social&logo=stackexchange&label=Photography
+[photo-url]: https://photo.stackexchange.com/users/35590/rsp
+
+[codereview-reputation-img]: https://img.shields.io/stackexchange/codereview/r/16853?style=social&logo=stackexchange&label=Code%20Review
+[codereview-url]: https://codereview.stackexchange.com/users/16853/rsp
