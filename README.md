@@ -32,6 +32,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 -->
 
 💖
+[![Open Source][opensource-img]][osi-url]]
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
 [![Go][go-img]][go-url]
@@ -94,6 +95,10 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [wasi-img]: https://img.shields.io/badge/WASI--lightgrey?logo=webassembly&style=social
 [wasi-url]: https://wasi.dev/
+
+[opensource-img]: ttps://img.shields.io/badge/Open%20Source--lightgrey?logo=opensourceinitiative&style=social
+[osi-img]: https://opensource.org/
+
 
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
