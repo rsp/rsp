@@ -154,3 +154,4 @@
 [photo-talks-img]: https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg
 [photo-architechture-img]: https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg
 
+<img src="https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg" width="100%">
