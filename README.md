@@ -1,10 +1,9 @@
-[**Rafał Pocztarski**](https://pocztarski.com/)
-[pocztarski.com](https://pocztarski.com/)
-<br/>
 [![GitHub Stars][github-stars-img]][github-stars-url]
 [![GitHub Followers][github-followers-img]][github-followers-url]
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
 [![LinkedIn Connections][linkedin-connections-img]][linkedin-connections-url]
+
+[![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 [![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
 [![Software Engineering][softwareengineering-reputation-img]][softwareengineering-url]
@@ -18,8 +17,6 @@
 [![Code Review][codereview-reputation-img]][codereview-url]
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
-
-[![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
