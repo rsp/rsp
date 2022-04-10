@@ -12,6 +12,7 @@
 [![Ask Ubuntu][askubuntu-reputation-img]][askubuntu-url]
 [![Super User][superuser-reputation-img]][superuser-url]
 [![Pro Webmasters][webmasters-reputation-img]][webmasters-url]
+[![Serrver Fault][serrverfault-reputation-img]][serrverfault-url]
 
 <br/>
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -22,13 +23,13 @@
 [github-followers-img]: https://img.shields.io/github/followers/rsp.svg?style=social
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&affiliations=OWNER%2CCOLLABORATOR
 [twitter-followers-url]: https://twitter.com/intent/follow?screen_name=pocztarski
-[twitter-followers-img]: https://img.shields.io/twitter/follow/pocztarski.svg?style=social
+[twitter-followers-img]: https://img.shields.io/twitter/follow/pocztarski.svg?style=social&label=Follow%20on%20Twitter
 
 [stackoverflow-url]: https://stackoverflow.com/users/613198/rsp
 [stackexchange-url]: https://stackexchange.com/users/303952/rsp
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
 
-[linkedin-connections-img]: https://img.shields.io/badge/LinkedIn_Connections-11511-lightgrey?logo=linkedin&style=social
+[linkedin-connections-img]: https://img.shields.io/badge/Connect_on_LinkedIn-11511-lightgrey?logo=linkedin&style=social
 [linkedin-connections-url]: https://www.linkedin.com/in/pocztarski/
 
 [stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow%20Reputation
@@ -47,3 +48,6 @@
 
 [webmasters-reputation-img]: https://img.shields.io/stackexchange/webmasters/r/18617?style=social&logo=stackexchange&label=Pro%20Webmasters
 [webmasters-url]: https://webmasters.stackexchange.com/users/18617/rsp
+
+[serverfault-reputation-img]: https://img.shields.io/stackexchange/serverfault/r/138110?style=social&logo=stackexchange&label=Server%20Fault
+[serverfault-url]: https://serverfault.com/users/138110/rsp
