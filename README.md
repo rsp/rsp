@@ -16,11 +16,14 @@
 [![Crossweb][crossweb-talks-img]][crossweb-url]
 
 🏢
+[![Backend][backend-img]][baclend-url]
 [![JavaScript][js-img]][js-url]
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
+<!--
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
+-->
 
 💖
 [![Deno][deno-img]][deno-url]
@@ -46,6 +49,9 @@
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[backend-img]: https://img.shields.io/badge/⚙️%20Backend--lightgrey?logo=&style=social
+[backend-url]: https://en.wikipedia.org/wiki/Frontend_and_backend
 
 [js-img]: https://img.shields.io/badge/JavaScript--lightgrey?logo=javascript&style=social
 [js-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
