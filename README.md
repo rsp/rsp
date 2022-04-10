@@ -22,6 +22,7 @@
 [![Rust][rust-img]][rust-url]
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][wasm-img]][wasm-url]
+[![WASI][wasi-img]][wasi-url]
 
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -58,6 +59,9 @@
 
 [wasm-img]: https://img.shields.io/badge/WebAssembly--lightgrey?logo=webassembly&style=social
 [wasm-url]: https://webassembly.org/
+
+[wasi-img]: https://img.shields.io/badge/WASI--lightgrey?logo=wasi&style=social
+[wasi-url]: https://wasi.dev/
 
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
