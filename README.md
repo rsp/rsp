@@ -19,7 +19,6 @@
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 
-<br/>
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 [github-stars-url]: https://github.com/rsp
