@@ -39,5 +39,5 @@
 [askubuntu-reputation-img]: https://img.shields.io/stackexchange/askubuntu/r/11582?style=social&logo=softwareengineering&label=Ask%20Ubuntu
 [askubuntu-url]: https://askubuntu.com/users/11582/rsp
 
-[superuser-reputation-img]: https://img.shields.io/stackexchange/superuser/r/11582?style=social&logo=softwareengineering&label=Super%20User
+[superuser-reputation-img]: https://img.shields.io/stackexchange/superuser/r/160960?style=social&logo=softwareengineering&label=Super%20User
 [superuser-url]: https://superuser.com/users/160960/rsp
