@@ -21,6 +21,10 @@
 [![Medium][medium-followers-img]][medium-url]
 [![Quora][quora-followers-img]][quora-url]
 
+🗣
+[![YouTube][youtube-watch-img]][youtube-playlist-url]
+[![Spotify][spotify-listen-img]][spotify-playlist-url]
+
 
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
@@ -40,9 +44,16 @@
 [medium-followers-img]: https://img.shields.io/badge/Follow_on_Medium-430-lightgrey?logo=medium&style=social
 [medium-url]: https://medium.com/@pocztarski
 
-[quora-followers-img]: https://img.shields.io/badge/Follow_on_Quora-430-lightgrey?logo=medium&style=social
+[quora-followers-img]: https://img.shields.io/badge/Follow_on_Quora-551-lightgrey?logo=quora&style=social
 [quora-url]: https://www.quora.com/profile/Rafa%C5%82-Pocztarski
 
+[dev-url]: https://dev.to/rsp
+
+[youtube-watch-img]: https://img.shields.io/badge/Watch_on_YouTube--lightgrey?logo=youtube&style=social
+[youtube-playlist-url]: https://www.youtube.com/playlist?list=PL0S-JSr7S95cBg0bT22T3cXYqUYUqU219
+
+[spotify-listen-img]: https://img.shields.io/badge/Listen_on_Spotify--lightgrey?logo=youtube&style=social
+[spotify-playlist-url]: https://open.spotify.com/episode/3dVfjN7sL1UxZCBMN8R70q
 
 [stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow
 
