@@ -1,3 +1,6 @@
+<img src="https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg" width="100%" /
+>
+
 🤝
 [![GitHub Followers][github-followers-img]][github-followers-url]
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
@@ -148,3 +151,7 @@
 
 [dba-reputation-img]: https://img.shields.io/stackexchange/dba/r/12854?style=social&logo=stackexchange&label=Database%20Administrators
 [dba-url]: https://dba.stackexchange.com/users/12854/rsp
+
+[photo-talks-img]: https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg
+[photo-architechture-img]: https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg
+
