@@ -23,4 +23,6 @@
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
 [linkedin-connections-img]: https://img.shields.io/badge/LinkedIn_Connections-11511-lightgrey?logo=linkedin&style=social
 [linkedin-connections-url]: https://www.linkedin.com/in/pocztarski/
+
 [stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack_Overflow_Reputation
+[softwareengineering-reputation-img]: https://img.shields.io/stackexchange/softwareengineering/r/18691?style=social&logo=softwareengineering&label=software_engineering_Reputation
