@@ -172,7 +172,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [photo-talks-img]: https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg
 [photo-architechture-img]: https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg
 
-[pocztarski-talks-img]: https://img.shields.io/badge/Watch%20on%20pocztarski.com--lightgrey?logo=&style=social
+[pocztarski-talks-img]: https://img.shields.io/badge/More%20on%20pocztarski.com--lightgrey?logo=&style=social
 [pocztarski-url]: https://pocztarski.com/
 
 <img src="https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg" width="100%">
