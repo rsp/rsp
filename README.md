@@ -10,7 +10,7 @@
 [![Software Engineering][softwareengineering-reputation-img]][softwareengineering-url]
 [![Unix & Linux][unixandlinux-reputation-img]][unixandlinux-url]
 [![Ask Ubuntu][askubuntu-reputation-img]][askubuntu-url]
-[![Super User][askubuntu-reputation-img]][askubuntu-url]
+[![Super User][superuser-reputation-img]][superuser-url]
 
 <br/>
 [![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
