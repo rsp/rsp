@@ -17,6 +17,11 @@
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 
+✍️
+[![Medium][medium-followers-img]][medium-url]
+[![Quora][quora-followers-img]][quora-url]
+
+
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
 [github-followers-url]: https://github.com/rsp
@@ -31,6 +36,13 @@
 
 [linkedin-connections-img]: https://img.shields.io/badge/Connect_on_LinkedIn-11.5k-lightgrey?logo=linkedin&style=social
 [linkedin-connections-url]: https://www.linkedin.com/in/pocztarski/
+
+[medium-followers-img]: https://img.shields.io/badge/Follow_on_Medium-430-lightgrey?logo=medium&style=social
+[medium-url]: https://medium.com/@pocztarski
+
+[quora-followers-img]: https://img.shields.io/badge/Follow_on_Quora-430-lightgrey?logo=medium&style=social
+[quora-url]: https://www.quora.com/profile/Rafa%C5%82-Pocztarski
+
 
 [stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow
 
