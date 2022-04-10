@@ -59,7 +59,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
 [![Vagrant][vagrant-img]][vagrant-url]
-[![TravisCI][travisci]][travisci-url]
+[![TravisCI][travisci-img]][travisci-url]
+[![CircleCI][circleci-img]][circleci-url]
 
 ⌨️
 [![Vim][vim-img]][vim-url]
