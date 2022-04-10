@@ -16,6 +16,8 @@
 [![JavaScript][js-img]][js-url]
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
+[![Docker][docker-img]][docker-url]
+[![Kubernetes][kubernetes-img]][kubernetes-url]
 
 💖
 [![Deno][deno-img]][deno-url]
@@ -42,8 +44,18 @@
 
 [js-img]: https://img.shields.io/badge/JavaScript--lightgrey?logo=javascript&style=social
 [js-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+
 [ts-img]: https://img.shields.io/badge/TypeScript--lightgrey?logo=typescript&style=social
 [ts-url]: https://www.typescriptlang.org/
+
+[node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=node.js&style=social
+[node-url]: https://nodejs.org/en/
+
+[docker-img]: https://img.shields.io/badge/Docker--lightgrey?logo=docker&style=social
+[docker-url]: https://www.docker.com/
+
+[kubernetes-img]: https://img.shields.io/badge/Kubernetes--lightgrey?logo=kubernetes&style=social
+[kubernetes-url]: https://kubernetes.io/
 
 [rust-img]: https://img.shields.io/badge/Rust--lightgrey?logo=rust&style=social
 [rust-url]: https://www.rust-lang.org/
@@ -53,9 +65,6 @@
 
 [zig-img]: https://img.shields.io/badge/Zig--lightgrey?logo=zig&style=social
 [zig-url]: https://ziglang.org/
-
-[node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=node.js&style=social
-[node-url]: https://nodejs.org/en/
 
 [wasm-img]: https://img.shields.io/badge/WebAssembly--lightgrey?logo=webassembly&style=social
 [wasm-url]: https://webassembly.org/
