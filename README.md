@@ -1,5 +1,7 @@
 <img src="https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg" width="100%">
 
+I got obsessed with programming when i was 6 years old and hasn't recovered since then.
+
 🤝
 [![GitHub Followers][github-followers-img]][github-followers-url]
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
