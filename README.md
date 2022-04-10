@@ -59,6 +59,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
 [![Vagrant][vagrant-img]][vagrant-url]
+[![TravisCI][travisci]][travisci-url]
 
 ⌨️
 [![Vim][vim-img]][vim-url]
@@ -92,6 +93,12 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[travisci-img]: https://img.shields.io/badge/Travis--lightgrey?logo=travisci&style=social
+[travisci-url]: https://www.travis-ci.com/
+
+[circleci-img]: https://img.shields.io/badge/Circle--lightgrey?logo=circleci&style=social
+[circleci-url]: https://circleci.com/
 
 [smartos-img]: https://img.shields.io/badge/SmartOS--lightgrey?logo=joyent&style=social
 [smartos-url]: https://www.joyent.com/smartos
