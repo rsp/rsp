@@ -35,6 +35,6 @@
 [unixandlinux-reputation-img]: https://img.shields.io/stackexchange/unix/r/23774?style=social&logo=softwareengineering&label=Unix%20%26%20Linux
 [unixandlinux-url]: https://unix.stackexchange.com/users/23774/rsp
 
-[askubintu-reputation-img]: https://img.shields.io/stackexchange/askubuntu/r/11582?style=social&logo=softwareengineering&label=Unix%20%26%20Linux
+[askubuntu-reputation-img]: https://img.shields.io/stackexchange/askubuntu/r/11582?style=social&logo=softwareengineering&label=Unix%20%26%20Linux
 
 [askubuntu-url]: https://askubuntu.com/users/11582/rsp
