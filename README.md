@@ -52,7 +52,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Linux][linux-img]][linux-url]
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
-
+[![Vagrant][vagrant-img]][vagrant-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -109,6 +109,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [kubernetes-img]: https://img.shields.io/badge/Kubernetes--lightgrey?logo=kubernetes&style=social
 [kubernetes-url]: https://kubernetes.io/
+
+[vagrant-img]: https://img.shields.io/badge/Vagrant--lightgrey?logo=vagrant&style=social
+[vagrant-url]: https://www.vagrantup.com/
 
 [rust-img]: https://img.shields.io/badge/Rust--lightgrey?logo=rust&style=social
 [rust-url]: https://www.rust-lang.org/
