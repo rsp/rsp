@@ -8,6 +8,7 @@
 
 [![Stack Overflow Reputation][stackoverflow-reputation-img]][stackoverflow-url]
 [![Software Engineering Reputation][softwareengineering-reputation-img]][softwareengineering-url]
+[![Unix & Linux Reputation][unixandlinux-reputation-img]][unixandlinux-url]
 
 <br/>
 [![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -29,3 +30,6 @@
 
 [softwareengineering-reputation-img]: https://img.shields.io/stackexchange/softwareengineering/r/18691?style=social&logo=softwareengineering&label=Software%20Engineering
 [softwareengineering-url]: https://softwareengineering.stackexchange.com/users/18691/
+
+[unixandlinux-reputation-img]: https://img.shields.io/stackexchange/unixandlinux/r/23774?style=social&logo=softwareengineering&label=Unix%20%26%20Linux
+[unixandlinux-url]: https://unix.stackexchange.com/users/23774/rsp
