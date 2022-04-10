@@ -17,6 +17,7 @@
 
 🏢
 [![Backend][backend-img]][backend-url]
+[![API][api-img]][api-url]
 [![JavaScript][js-img]][js-url]
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
@@ -49,6 +50,9 @@
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[api-img]: https://img.shields.io/badge/⚙️%20Web%20APIs--lightgrey?logo=&style=social
+[api-url]: https://en.wikipedia.org/wiki/Web_API
 
 [backend-img]: https://img.shields.io/badge/⚙️%20Backend--lightgrey?logo=&style=social
 [backend-url]: https://en.wikipedia.org/wiki/Frontend_and_backend
