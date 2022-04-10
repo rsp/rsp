@@ -56,7 +56,6 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 -->
 
 👍
-[![GitHub][github-img]][github-url]
 [![Bash][bash-img]][bash-url]
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
@@ -64,6 +63,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![TravisCI][travisci-img]][travisci-url]
 [![CircleCI][circleci-img]][circleci-url]
 [![GitHub Actions][githubactions-img]][githubactions-url]
+<!--
+[![GitHub][github-img]][github-url]
+-->
 
 ⌨️
 [![Vim][vim-img]][vim-url]
