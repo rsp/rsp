@@ -1,4 +1,3 @@
-[![GitHub Stars][github-stars-img]][github-stars-url]
 [![GitHub Followers][github-followers-img]][github-followers-url]
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
 [![LinkedIn Connections][linkedin-connections-img]][linkedin-connections-url]
