@@ -1,6 +1,8 @@
 <img src="https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg" width="100%">
 
-I got obsessed with programming when I was 6 years old and hasn't recovered since then.
+Programming since I was 6, professionally since I was 16.
+
+I got obsessed with programming when I was a kid and hasn't recovered since then.
 
 🤝
 [![GitHub Followers][github-followers-img]][github-followers-url]
