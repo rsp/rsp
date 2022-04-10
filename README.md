@@ -17,8 +17,11 @@
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
 
+💖
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
+[![Zig][zig-img]][zig-url]
+[![WebAssembly][wasm-img]][wasm-url]
 
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -43,12 +46,18 @@
 
 [rust-img]: https://img.shields.io/badge/Rust--lightgrey?logo=rust&style=social
 [rust-url]: https://www.rust-lang.org/
+
 [deno-img]: https://img.shields.io/badge/Deno--lightgrey?logo=deno&style=social
 [deno-url]: https://deno.land/
+
+[zig-img]: https://img.shields.io/badge/Zig--lightgrey?logo=zig&style=social
+[zig-url]: https://ziglang.org/
 
 [node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=node.js&style=social
 [node-url]: https://nodejs.org/en/
 
+[wasm-img]: https://img.shields.io/badge/WebAssembly--lightgrey?logo=webassembly&style=social
+[wasm-url]: https://webassembly.org/
 
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
