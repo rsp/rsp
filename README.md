@@ -42,13 +42,15 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][wasm-img]][wasm-url]
 
-👍
+💻
 [![Debian][debian-img]][debian-url]
 [![Ubuntu][ubuntu-img]][ubuntu-url]
 [![Alpine][alpine-img]][alpine-url]
 [![Void][void-img]][void-url]
 [![GNU][gnu-img]][gnu-url]
 [![Linux][linux-img]][linux-url]
+
+👍
 [![Bash][bash-img]][bash-url]
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
@@ -65,6 +67,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![WASI][wasi-img]][wasi-url]
 [![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
+[![Hubris][hubris-img]][hubris-url]
+[![BoksOS][boksos]][boksos-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -82,6 +86,13 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+
+[hubris-img]: https://img.shields.io/badge/🔥%20Hubris--lightgrey?logo=hubris&style=social
+[hubris-url]: https://hubris.oxide.computer/
+
+[boksos-img]: https://img.shields.io/badge/🔥%20BoksOS--lightgrey?logo=boksos&style=social
+[boksos-url]: https://boksos.com/
 
 [bash-img]: https://img.shields.io/badge/Bash--lightgrey?logo=bash&style=social
 [bash-url]: https://www.gnu.org/software/bash/
