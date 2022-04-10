@@ -160,16 +160,16 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [codespaces-img]: https://img.shields.io/badge/Code%20Spaces--lightgrey?logo=github&style=social
 [codespaces-url]: https://github.com/features/codespaces
 
-[debian-img]: https://img.shields.io/badge/Debian--lightgrey?logo=debian&style=social
+[debian-img]: https://img.shields.io/badge/Debian_GNU%2FLinux--lightgrey?logo=debian&style=social
 [debian-url]: https://www.debian.org/
 
 [ubuntu-img]: https://img.shields.io/badge/Ubuntu--lightgrey?logo=ubuntu&style=social
 [ubuntu-url]: https://ubuntu.com/
 
-[alpine-img]: https://img.shields.io/badge/Alpine--lightgrey?logo=alpinelinux&style=social
+[alpine-img]: https://img.shields.io/badge/Alpine_Linux--lightgrey?logo=alpinelinux&style=social
 [alpine-url]: https://www.alpinelinux.org/
 
-[void-img]: https://img.shields.io/badge/Void--lightgrey?logo=voidlinux&style=social
+[void-img]: https://img.shields.io/badge/Void_Linux--lightgrey?logo=voidlinux&style=social
 [void-url]: https://voidlinux.org/
 
 [gnu-img]: https://img.shields.io/badge/GNU--lightgrey?logo=gnu&style=social
