@@ -34,7 +34,7 @@
 [stackexchange-url]: https://stackexchange.com/users/303952/rsp
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
 
-[linkedin-connections-img]: https://img.shields.io/badge/Connect_on_LinkedIn-11511-lightgrey?logo=linkedin&style=social
+[linkedin-connections-img]: https://img.shields.io/badge/Connect_on_LinkedIn-11.5k-lightgrey?logo=linkedin&style=social
 [linkedin-connections-url]: https://www.linkedin.com/in/pocztarski/
 
 [stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow%20Reputation
