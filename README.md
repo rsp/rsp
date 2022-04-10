@@ -60,7 +60,7 @@
 [wasm-img]: https://img.shields.io/badge/WebAssembly--lightgrey?logo=webassembly&style=social
 [wasm-url]: https://webassembly.org/
 
-[wasi-img]: https://img.shields.io/badge/WASI--lightgrey?logo=wasi&style=social
+[wasi-img]: https://img.shields.io/badge/WASI--lightgrey?logo=webassembly&style=social
 [wasi-url]: https://wasi.dev/
 
 [github-stars-url]: https://github.com/rsp
