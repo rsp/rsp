@@ -17,6 +17,10 @@
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
 
+[![Deno][deno-img]][deno-url]
+[![Rust][rust-img]][rust-url]
+
+
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 [![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
@@ -37,6 +41,10 @@
 [ts-img]: https://img.shields.io/badge/TypeScript--lightgrey?logo=typescript&style=social
 [ts-url]: https://www.typescriptlang.org/
 
+[rust-img]: https://img.shields.io/badge/Rust--lightgrey?logo=rust&style=social
+[rust-url]: https://www.rust-lang.org/
+[deno-img]: https://img.shields.io/badge/Deno--lightgrey?logo=deno&style=social
+[deno-url]: https://deno.land/
 
 [node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=node.js&style=social
 [node-url]: https://nodejs.org/en/
