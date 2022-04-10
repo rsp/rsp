@@ -56,6 +56,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Kubernetes][kubernetes-img]][kubernetes-url]
 [![Vagrant][vagrant-img]][vagrant-url]
 [![SmartOS][smartos-img]][smartos-url]
+[![illumos][illumos-img]][illumos-url]
 
 ⌨️
 [![Vim][vim-img]][vim-url]
@@ -92,6 +93,12 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [smartos-img]: https://img.shields.io/badge/SmartOS--lightgrey?logo=joyent&style=social
 [smartos-url]: https://www.joyent.com/smartos
+
+[omnios-img]: https://img.shields.io/badge/OmniOS--lightgrey?logo=omniti&style=social
+[omnios-url]: https://omnios.org/
+
+[illumos-img]: https://img.shields.io/badge/illumos--lightgrey?logo=illumos&style=social
+[illumos-url]: https://illumos.org/
 
 [hubris-img]: https://img.shields.io/badge/Hubris--lightgrey?logo=rust&style=social
 [hubris-url]: https://hubris.oxide.computer/
