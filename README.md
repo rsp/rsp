@@ -12,6 +12,11 @@
 [![YouTube][youtube-watch-img]][youtube-playlist-url]
 [![Spotify][spotify-listen-img]][spotify-playlist-url]
 
+💰
+[![JavaScript][js-img]][js-url]
+[![TypeScript][ts-img]][ts-url]
+[![Node.js][node-img]][node-url]
+
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 [![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
@@ -51,6 +56,9 @@
 
 [wikipedia-contributions-img]: https://img.shields.io/badge/Wikipedia_Contributions-4.8k-lightgrey?logo=wikipedia&style=social
 [wikipedia-contributions-url]: https://en.wikipedia.org/wiki/Special:Contributions/Rfl
+
+[node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=nodejs&style=social
+[node-url]:https://nodejs.org/en/
 
 [dev-url]: https://dev.to/rsp
 
