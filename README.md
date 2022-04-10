@@ -47,10 +47,10 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Debian][debian-img]][debian-url]
 [![Ubuntu][ubuntu-img]][ubuntu-url]
 [![Alpine][alpine-img]][alpine-url]
-[![Void][void-img]][void-url]
 [![GNU][gnu-img]][gnu-url]
 [![Linux][linux-img]][linux-url]
 <!--
+[![Void][void-img]][void-url]
 [![SmartOS][smartos-img]][smartos-url]
 [![illumos][illumos-img]][illumos-url]
 -->
