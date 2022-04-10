@@ -86,7 +86,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [gnu-img]: https://img.shields.io/badge/GNU--lightgrey?logo=gnul&style=social
 [gnu-url]: https://www.gnu.org/
 
-[linux-img]: https://img.shields.io/badge/Linux--lightgrey?logo=linuxlinux&style=social
+[linux-img]: https://img.shields.io/badge/Linux--lightgrey?logo=linux&style=social
 [linux-url]: https://www.kernel.org/
 
 [api-img]: https://img.shields.io/badge/⚙️%20Web%20APIs--lightgrey?logo=&style=social
@@ -130,6 +130,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [opensource-img]: https://img.shields.io/badge/Open%20Source--lightgrey?logo=opensourceinitiative&style=social
 [osi-url]: https://opensource.org/
+
+[freesoftware-img]: https://img.shields.io/badge/Free%20Software--lightgrey?logo=gnu&style=social
+[fsf-url]: https://www.fsf.org/
 
 [git-img]: https://img.shields.io/badge/Git--lightgrey?logo=git&style=social
 [git-url]: https://git-scm.com/
