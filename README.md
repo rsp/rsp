@@ -14,6 +14,7 @@
 [![Pro Webmasters][webmasters-reputation-img]][webmasters-url]
 [![Server Fault][serverfault-reputation-img]][serverfault-url]
 [![Freelancing][freelancing-reputation-img]][freelancing-url]
+[![Photography][photography-reputation-img]][photography-url]
 
 <br/>
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -55,3 +56,6 @@
 
 [freelancing-reputation-img]: https://img.shields.io/stackexchange/freelancing/r/5696?style=social&logo=stackexchange&label=Freelancing
 [freelancing-url]: https://freelancing.stackexchange.com/users/5696/rsp
+
+[photography-reputation-img]: https://img.shields.io/stackexchange/photography/r/35590?style=social&logo=stackexchange&label=Photography
+[photography-url]: https://photo.stackexchange.com/users/35590/rsp
