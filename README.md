@@ -68,7 +68,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
 [![Hubris][hubris-img]][hubris-url]
-[![BoksOS][boksos]][boksos-url]
+[![BoksOS][boksos-img]][boksos-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
