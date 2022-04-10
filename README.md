@@ -89,7 +89,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 -->
 
 
-[hubris-img]: https://img.shields.io/badge/🔥%20Hubris--lightgrey?logo=hubris&style=social
+[hubris-img]: https://img.shields.io/badge/Hubris--lightgrey?logo=rust&style=social
 [hubris-url]: https://hubris.oxide.computer/
 
 [boksos-img]: https://img.shields.io/badge/BoksOS--lightgrey?logo=zig&style=social
@@ -116,7 +116,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [vscode-img]: https://img.shields.io/badge/Code--lightgrey?logo=visualstudiocode&style=social
 [vscode-url]: https://code.visualstudio.com/
 
-[zed-img]: https://img.shields.io/badge/🔥%20Zed--lightgrey?logo=zed&style=social
+[zed-img]: https://img.shields.io/badge/Zed--lightgrey?logo=rust&style=social
 [zed-url]: https://zed.dev/
 
 [codespaces-img]: https://img.shields.io/badge/Code%20Spaces--lightgrey?logo=github&style=social
