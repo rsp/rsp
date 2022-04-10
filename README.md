@@ -90,7 +90,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
 
-[hubris-img]: https://img.shields.io/badge/SmartOS--lightgrey?logo=joyent&style=social
+[smartos-img]: https://img.shields.io/badge/SmartOS--lightgrey?logo=joyent&style=social
 [smartos-url]: https://www.joyent.com/smartos
 
 [hubris-img]: https://img.shields.io/badge/Hubris--lightgrey?logo=rust&style=social
