@@ -6,6 +6,7 @@
 ✍️
 [![Medium][medium-followers-img]][medium-url]
 [![Quora][quora-followers-img]][quora-url]
+[![Wikipedia][wikipedia-contributions-img]][wikipedia-contributions-url]
 
 🗣
 [![YouTube][youtube-watch-img]][youtube-playlist-url]
@@ -47,6 +48,9 @@
 
 [quora-followers-img]: https://img.shields.io/badge/Follow_on_Quora-551-lightgrey?logo=quora&style=social
 [quora-url]: https://www.quora.com/profile/Rafa%C5%82-Pocztarski
+
+[wikipedia-contributions-img]: https://img.shields.io/badge/Wikipedia_Contributions-4.8k-lightgrey?logo=wikipedia&style=social
+[wikipedia-contributions-url]: https://en.wikipedia.org/wiki/Special:Contributions/Rfl
 
 [dev-url]: https://dev.to/rsp
 
