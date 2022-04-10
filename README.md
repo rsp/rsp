@@ -16,7 +16,7 @@
 [![Crossweb][crossweb-talks-img]][crossweb-url]
 
 🏢
-[![Backend][backend-img]][baclend-url]
+[![Backend][backend-img]][backend-url]
 [![JavaScript][js-img]][js-url]
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
