@@ -32,6 +32,7 @@
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
+<!--
 [![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
 [![Software Engineering][softwareengineering-reputation-img]][softwareengineering-url]
 [![Unix & Linux][unixandlinux-reputation-img]][unixandlinux-url]
@@ -44,6 +45,7 @@
 [![Code Review][codereview-reputation-img]][codereview-url]
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
+-->
 
 [js-img]: https://img.shields.io/badge/JavaScript--lightgrey?logo=javascript&style=social
 [js-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
