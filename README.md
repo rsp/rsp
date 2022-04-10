@@ -22,10 +22,10 @@
 💖
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
+[![Go][go-img]][go-url]
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][wasm-img]][wasm-url]
 [![WASI][wasi-img]][wasi-url]
-
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -59,6 +59,9 @@
 
 [rust-img]: https://img.shields.io/badge/Rust--lightgrey?logo=rust&style=social
 [rust-url]: https://www.rust-lang.org/
+
+[go-img]: https://img.shields.io/badge/Go--lightgrey?logo=go&style=social
+[go-url]: https://go.dev/
 
 [deno-img]: https://img.shields.io/badge/Deno--lightgrey?logo=deno&style=social
 [deno-url]: https://deno.land/
