@@ -32,7 +32,7 @@
 [linkedin-connections-img]: https://img.shields.io/badge/Connect_on_LinkedIn-11.5k-lightgrey?logo=linkedin&style=social
 [linkedin-connections-url]: https://www.linkedin.com/in/pocztarski/
 
-[stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow%20Reputation
+[stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow
 
 [softwareengineering-reputation-img]: https://img.shields.io/stackexchange/softwareengineering/r/18691?style=social&logo=stackexchange&label=Software%20Engineering
 [softwareengineering-url]: https://softwareengineering.stackexchange.com/users/18691/rsp
