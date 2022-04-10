@@ -32,6 +32,15 @@
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 
+[js-img]: https://img.shields.io/badge/JavaScript--lightgrey?logo=javascript&style=social
+[js-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[ts-img]: https://img.shields.io/badge/TypeScript--lightgrey?logo=typescript&style=social
+[ts-url]: https://www.typescriptlang.org/
+
+
+[node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=node.js&style=social
+[node-url]: https://nodejs.org/en/
+
 
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
@@ -56,9 +65,6 @@
 
 [wikipedia-contributions-img]: https://img.shields.io/badge/Wikipedia_Contributions-4.8k-lightgrey?logo=wikipedia&style=social
 [wikipedia-contributions-url]: https://en.wikipedia.org/wiki/Special:Contributions/Rfl
-
-[node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=nodejs&style=social
-[node-url]:https://nodejs.org/en/
 
 [dev-url]: https://dev.to/rsp
 
