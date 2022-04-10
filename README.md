@@ -6,10 +6,11 @@
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
 [![LinkedIn Connections][linkedin-connections-img]][linkedin-connections-url]
 
-[![Stack Overflow Reputation][stackoverflow-reputation-img]][stackoverflow-url]
-[![Software Engineering Reputation][softwareengineering-reputation-img]][softwareengineering-url]
-[![Unix & Linux Reputation][unixandlinux-reputation-img]][unixandlinux-url]
-[![Ask Ubuntu Reputation][askubuntu-reputation-img]][askubuntu-url]
+[![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
+[![Software Engineering][softwareengineering-reputation-img]][softwareengineering-url]
+[![Unix & Linux][unixandlinux-reputation-img]][unixandlinux-url]
+[![Ask Ubuntu][askubuntu-reputation-img]][askubuntu-url]
+[![Super User][askubuntu-reputation-img]][askubuntu-url]
 
 <br/>
 [![Follow on Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -35,6 +36,8 @@
 [unixandlinux-reputation-img]: https://img.shields.io/stackexchange/unix/r/23774?style=social&logo=softwareengineering&label=Unix%20%26%20Linux
 [unixandlinux-url]: https://unix.stackexchange.com/users/23774/rsp
 
-[askubuntu-reputation-img]: https://img.shields.io/stackexchange/askubuntu/r/11582?style=social&logo=softwareengineering&label=Unix%20%26%20Linux
-
+[askubuntu-reputation-img]: https://img.shields.io/stackexchange/askubuntu/r/11582?style=social&logo=softwareengineering&label=Ask%20Ubuntu
 [askubuntu-url]: https://askubuntu.com/users/11582/rsp
+
+[superuser-reputation-img]: https://img.shields.io/stackexchange/superuser/r/11582?style=social&logo=softwareengineering&label=Super%20User
+[superuser-url]: https://superuser.com/users/160960/rsp
