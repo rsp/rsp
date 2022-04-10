@@ -23,9 +23,9 @@
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 [github-stars-url]: https://github.com/rsp
-[github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub_Stars&affiliations=OWNER%2CCOLLABORATOR
+[github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
 [github-followers-url]: https://github.com/rsp
-[github-followers-img]: https://img.shields.io/github/followers/rsp.svg?style=social
+[github-followers-img]: https://img.shields.io/github/followers/rsp.svg?style=social&label=Follow%20on%20GitHub
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&affiliations=OWNER%2CCOLLABORATOR
 [twitter-followers-url]: https://twitter.com/intent/follow?screen_name=pocztarski
 [twitter-followers-img]: https://img.shields.io/twitter/follow/pocztarski.svg?style=social&label=Follow%20on%20Twitter
