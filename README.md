@@ -1,6 +1,15 @@
+🤝
 [![GitHub Followers][github-followers-img]][github-followers-url]
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
 [![LinkedIn Connections][linkedin-connections-img]][linkedin-connections-url]
+
+✍️
+[![Medium][medium-followers-img]][medium-url]
+[![Quora][quora-followers-img]][quora-url]
+
+🗣
+[![YouTube][youtube-watch-img]][youtube-playlist-url]
+[![Spotify][spotify-listen-img]][spotify-playlist-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -16,14 +25,6 @@
 [![Code Review][codereview-reputation-img]][codereview-url]
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
-
-✍️
-[![Medium][medium-followers-img]][medium-url]
-[![Quora][quora-followers-img]][quora-url]
-
-🗣
-[![YouTube][youtube-watch-img]][youtube-playlist-url]
-[![Spotify][spotify-listen-img]][spotify-playlist-url]
 
 
 [github-stars-url]: https://github.com/rsp
