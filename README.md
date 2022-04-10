@@ -26,6 +26,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![JavaScript][js-img]][js-url]
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
+[![Git][git-img]][git-url]
+[![GitHub][github-img]][github-url]
 <!--
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
@@ -99,6 +101,11 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [opensource-img]: https://img.shields.io/badge/Open%20Source--lightgrey?logo=opensourceinitiative&style=social
 [osi-url]: https://opensource.org/
 
+[git-img]: https://img.shields.io/badge/Git--lightgrey?logo=git&style=social
+[git-url]: https://git-scm.com/
+
+[github-img]: https://img.shields.io/badge/GitHub--lightgrey?logo=github&style=social
+[github-url]: https://github.com/
 
 [github-stars-url]: https://github.com/rsp
 [github-stars-img]: https://img.shields.io/github/stars/rsp.svg?style=social&label=GitHub%20Stars&affiliations=OWNER%2CCOLLABORATOR
