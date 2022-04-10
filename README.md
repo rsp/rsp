@@ -122,7 +122,8 @@ I got obsessed with programming when I was 6 years old and hasn't recovered sinc
 [youtube-playlist-url]: https://www.youtube.com/playlist?list=PL0S-JSr7S95cBg0bT22T3cXYqUYUqU219
 
 [spotify-listen-img]: https://img.shields.io/badge/Listen_on_Spotify--lightgrey?logo=spotify&style=social
-[spotify-playlist-url]: https://open.spotify.com/episode/3dVfjN7sL1UxZCBMN8R70q
+[spotify-episode-url]: https://open.spotify.com/episode/3dVfjN7sL1UxZCBMN8R70q
+[spotify-playlist-url]: https://open.spotify.com/playlist/2ElGG8xwjOjJKgwdSyH5QP
 
 [crossweb-talks-img]: https://img.shields.io/badge/Talks_on_Crossweb--lightgrey?logo=crossweb&style=social
 [crossweb-url]: https://crossweb.pl/en/profile/rafal-pocztarski/29326/
