@@ -26,8 +26,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![JavaScript][js-img]][js-url]
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
-[![Git][git-img]][git-url]
-[![GitHub][github-img]][github-url]
+[![JSON][json-img]][json-url]
+[![OpenAPI][openapiinitiative-img]][openapiinitiative-url]
 <!--
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
@@ -36,6 +36,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 💖
 [![Open Source][opensource-img]][osi-url]
 [![Free Software][freesoftware-img]][fsf-url]
+[![Git][git-img]][git-url]
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
 [![Go][go-img]][go-url]
@@ -55,6 +56,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 -->
 
 👍
+[![GitHub][github-img]][github-url]
 [![Bash][bash-img]][bash-url]
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
@@ -98,6 +100,12 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [travisci-img]: https://img.shields.io/badge/Travis--lightgrey?logo=travisci&style=social
 [travisci-url]: https://www.travis-ci.com/
+
+[openapiinitiative-img]: https://img.shields.io/badge/OpenAPI--lightgrey?logo=openapiinitiative&style=social
+[openapiinitiative-url]: https://www.openapis.org/
+
+[json-img]: https://img.shields.io/badge/JSON--lightgrey?logo=json&style=social
+[json-url]: https://www.json.org/
 
 [circleci-img]: https://img.shields.io/badge/Circle--lightgrey?logo=circleci&style=social
 [circleci-url]: https://circleci.com/
