@@ -70,7 +70,7 @@
 [codereview-url]: https://codereview.stackexchange.com/users/16853/rsp
 
 [ethereum-reputation-img]: https://img.shields.io/stackexchange/ethereum/r/19635?style=social&logo=stackexchange&label=Ethereum
-[ethereum]: https://ethereum.stackexchange.com/users/19635/rsp
+[ethereum-url]: https://ethereum.stackexchange.com/users/19635/rsp
 
 [dba-reputation-img]: https://img.shields.io/stackexchange/dba/r/12854?style=social&logo=stackexchange&label=Database%20Administrators
-[dba]: https://dba.stackexchange.com/users/12854/rsp
+[dba-url]: https://dba.stackexchange.com/users/12854/rsp
