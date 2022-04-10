@@ -35,12 +35,24 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 💖
 [![Open Source][opensource-img]][osi-url]
+[![Free Software][freesoftware-img]][fsf-url]
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
 [![Go][go-img]][go-url]
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][wasm-img]][wasm-url]
 [![WASI][wasi-img]][wasi-url]
+
+👍
+[![Debian][debian-img]][debian-url]
+[![Ubuntu][ubuntu-img]][ubuntu-url]
+[![Alpine][alpine-img]][alpine-url]
+[![Void][void-img]][void-url]
+[![GNU][gnu-img]][gnu-url]
+[![Linux][linux-img]][linux-url]
+[![Docker][docker-img]][docker-url]
+[![Kubernetes][kubernetes-img]][kubernetes-url]
+
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -58,6 +70,24 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[debian-img]: https://img.shields.io/badge/Debian--lightgrey?logo=debian&style=social
+[debian-url]: https://www.debian.org/
+
+[ubuntu-img]: https://img.shields.io/badge/Ubuntu--lightgrey?logo=ubuntu&style=social
+[ubuntu-url]: https://ubuntu.com/
+
+[alpine-img]: https://img.shields.io/badge/Alpine--lightgrey?logo=alpinelinux&style=social
+[alpine-url]: https://www.alpinelinux.org/
+
+[void-img]: https://img.shields.io/badge/Void--lightgrey?logo=voidlinux&style=social
+[void-url]: https://voidlinux.org/
+
+[gnu-img]: https://img.shields.io/badge/GNU--lightgrey?logo=gnul&style=social
+[gnu-url]: https://www.gnu.org/
+
+[linux-img]: https://img.shields.io/badge/Linux--lightgrey?logo=linuxlinux&style=social
+[linux-url]: https://www.kernel.org/
 
 [api-img]: https://img.shields.io/badge/⚙️%20Web%20APIs--lightgrey?logo=&style=social
 [api-url]: https://en.wikipedia.org/wiki/Web_API
