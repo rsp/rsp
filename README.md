@@ -69,7 +69,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Zed][zed-img]][zed-url]
 [![Hubris][hubris-img]][hubris-url]
 [![BoksOS][boksos-img]][boksos-url]
-[![Zen][zenos]][zenos-url]
+[![Zen][zenos-img]][zenos-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
