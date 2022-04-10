@@ -96,7 +96,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [wasi-img]: https://img.shields.io/badge/WASI--lightgrey?logo=webassembly&style=social
 [wasi-url]: https://wasi.dev/
 
-[opensource-img]: ttps://img.shields.io/badge/Open%20Source--lightgrey?logo=opensourceinitiative&style=social
+[opensource-img]: https://img.shields.io/badge/Open%20Source--lightgrey?logo=opensourceinitiative&style=social
 [osi-img]: https://opensource.org/
 
 
