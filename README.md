@@ -11,6 +11,7 @@
 🗣
 [![YouTube][youtube-watch-img]][youtube-playlist-url]
 [![Spotify][spotify-listen-img]][spotify-playlist-url]
+[![Crossweb][crossweb-talks-img]][crossweb-url]
 
 💰
 [![JavaScript][js-img]][js-url]
@@ -106,6 +107,9 @@
 
 [spotify-listen-img]: https://img.shields.io/badge/Listen_on_Spotify--lightgrey?logo=spotify&style=social
 [spotify-playlist-url]: https://open.spotify.com/episode/3dVfjN7sL1UxZCBMN8R70q
+
+[crossweb-talks-img]: https://img.shields.io/badge/Talks_on_Crossweb--lightgrey?logo=world&style=social
+[crossweb-url]: https://crossweb.pl/en/profile/rafal-pocztarski/29326/
 
 [stackoverflow-reputation-img]: https://img.shields.io/stackexchange/stackoverflow/r/613198?style=social&logo=stackoverflow&label=Stack%20Overflow
 
