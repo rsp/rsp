@@ -83,7 +83,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [void-img]: https://img.shields.io/badge/Void--lightgrey?logo=voidlinux&style=social
 [void-url]: https://voidlinux.org/
 
-[gnu-img]: https://img.shields.io/badge/GNU--lightgrey?logo=gnul&style=social
+[gnu-img]: https://img.shields.io/badge/GNU--lightgrey?logo=gnu&style=social
 [gnu-url]: https://www.gnu.org/
 
 [linux-img]: https://img.shields.io/badge/Linux--lightgrey?logo=linux&style=social
