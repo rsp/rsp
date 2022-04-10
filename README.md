@@ -50,9 +50,20 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Void][void-img]][void-url]
 [![GNU][gnu-img]][gnu-url]
 [![Linux][linux-img]][linux-url]
+[![Bash][bash-img]][bash-url]
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
 [![Vagrant][vagrant-img]][vagrant-url]
+
+⌨️
+[![Vim][vim-img]][vim-url]
+[![Sublime][sublime-img]][sublime-url]
+[![Atom][atom-img]][atom-url]
+[![Brackets][brackets-img]][brackets-url]
+[![VSCode][vscode-img]][vscode-url]
+
+🔥
+[![Zed][zed-img]][zed-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -70,6 +81,27 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[bash-img]: https://img.shields.io/badge/Bash--lightgrey?logo=bash&style=social
+[bash-url]: https://www.gnu.org/software/bash/
+
+[vim-img]: https://img.shields.io/badge/Vim--lightgrey?logo=vim&style=social
+[vim-url]: https://www.vim.org/
+
+[sublime-img]: https://img.shields.io/badge/Sublime--lightgrey?logo=sublimetext&style=social
+[sublime-url]: https://www.sublimetext.com/
+
+[atom-img]: https://img.shields.io/badge/Atom--lightgrey?logo=atom&style=social
+[atom-url]: https://atom.io/
+
+[brackets-img]: https://img.shields.io/badge/brackets--lightgrey?logo=brackets&style=social
+[brackets-url]: https://brackets.io/
+
+[vscode-img]: https://img.shields.io/badge/Code--lightgrey?logo=visualstudiocode&style=social
+[vscode-url]: https://code.visualstudio.com/
+
+[zed-img]: https://img.shields.io/badge/🔥%20Zed--lightgrey?logo=zed&style=social
+[zed-url]: https://zed.dev/
 
 [debian-img]: https://img.shields.io/badge/Debian--lightgrey?logo=debian&style=social
 [debian-url]: https://www.debian.org/
