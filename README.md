@@ -13,6 +13,7 @@
 [![Super User][superuser-reputation-img]][superuser-url]
 [![Pro Webmasters][webmasters-reputation-img]][webmasters-url]
 [![Server Fault][serverfault-reputation-img]][serverfault-url]
+[![Freelancing][freelancing-reputation-img]][freelancing-url]
 
 <br/>
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
