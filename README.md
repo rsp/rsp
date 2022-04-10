@@ -12,7 +12,7 @@
 [![Ask Ubuntu][askubuntu-reputation-img]][askubuntu-url]
 [![Super User][superuser-reputation-img]][superuser-url]
 [![Pro Webmasters][webmasters-reputation-img]][webmasters-url]
-[![Serrver Fault][serrverfault-reputation-img]][serrverfault-url]
+[![Server Fault][serverfault-reputation-img]][serverfault-url]
 
 <br/>
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
