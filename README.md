@@ -15,7 +15,7 @@
 [![Spotify][spotify-listen-img]][spotify-playlist-url]
 [![Crossweb][crossweb-talks-img]][crossweb-url]
 
-💰
+🏢
 [![JavaScript][js-img]][js-url]
 [![TypeScript][ts-img]][ts-url]
 [![Node.js][node-img]][node-url]
