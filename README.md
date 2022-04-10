@@ -61,6 +61,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Vagrant][vagrant-img]][vagrant-url]
 [![TravisCI][travisci-img]][travisci-url]
 [![CircleCI][circleci-img]][circleci-url]
+[![GitHub Actions][githubactions-img]][githubactions-url]
 
 ⌨️
 [![Vim][vim-img]][vim-url]
@@ -100,6 +101,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [circleci-img]: https://img.shields.io/badge/Circle--lightgrey?logo=circleci&style=social
 [circleci-url]: https://circleci.com/
+
+[githubactions-img]: https://img.shields.io/badge/GitHub_Actions--lightgrey?logo=github&style=social
+[githubactions-url]:https://github.com/features/actions
 
 [smartos-img]: https://img.shields.io/badge/SmartOS--lightgrey?logo=joyent&style=social
 [smartos-url]: https://www.joyent.com/smartos
