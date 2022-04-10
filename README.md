@@ -41,7 +41,6 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Go][go-img]][go-url]
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][wasm-img]][wasm-url]
-[![WASI][wasi-img]][wasi-url]
 
 👍
 [![Debian][debian-img]][debian-url]
@@ -63,6 +62,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![VSCode][vscode-img]][vscode-url]
 
 🔥
+[![WASI][wasi-img]][wasi-url]
+[![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
@@ -102,6 +103,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [zed-img]: https://img.shields.io/badge/🔥%20Zed--lightgrey?logo=zed&style=social
 [zed-url]: https://zed.dev/
+
+[codespaces-img]: https://img.shields.io/badge/Code%20Spaces--lightgrey?logo=github&style=social
+[codespaces-url]: https://github.com/features/codespaces
 
 [debian-img]: https://img.shields.io/badge/Debian--lightgrey?logo=debian&style=social
 [debian-url]: https://www.debian.org/
