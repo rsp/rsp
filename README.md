@@ -102,7 +102,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [zenos-img]: https://img.shields.io/badge/Zen--lightgrey?logo=zig&style=social
 [zenos-url]: https://github.com/AndreaOrru/zen
 
-[bash-img]: https://img.shields.io/badge/Bash--lightgrey?logo=bash&style=social
+[bash-img]: https://img.shields.io/badge/Bash--lightgrey?logo=gnu&style=social
 [bash-url]: https://www.gnu.org/software/bash/
 
 [vim-img]: https://img.shields.io/badge/Vim--lightgrey?logo=vim&style=social
