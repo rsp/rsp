@@ -87,6 +87,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 👀
 [![Go][go-img]][go-url]
+[![TinyGo][tinygo-img]][tinygo-url]
 [![Yew][yew-img]][yew-url]
 [![Hubris][hubris-img]][hubris-url]
 [![Redox][redox-img]][redox-url]
@@ -230,6 +231,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [go-img]: https://img.shields.io/badge/Go--lightgrey?logo=go&style=social
 [go-url]: https://go.dev/
+
+[tinygo-img]: https://img.shields.io/badge/TinyGo--lightgrey?logo=go&style=social
+[tinygo-url]: https://tinygo.org/
 
 [deno-img]: https://img.shields.io/badge/Deno--lightgrey?logo=deno&style=social
 [deno-url]: https://deno.land/
