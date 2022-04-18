@@ -84,6 +84,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
 [![Nushell][nushell-img]][nushell-url]
+[![WASM-4][wasm4-img]][wasm4-url]
 
 👀
 [![Go][go-img]][go-url]
@@ -110,6 +111,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[wasm4-url]: https://wasm4.org/
+[wasm4-img]: https://img.shields.io/badge/WASM%204--lightgrey?logo=webassembly&style=social
 
 [nushell-url]: https://www.nushell.sh/
 [nushell-img]: https://img.shields.io/badge/Nushell--lightgrey?logo=rust&style=social
