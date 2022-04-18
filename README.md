@@ -113,7 +113,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 -->
 
 [wasm4-url]: https://wasm4.org/
-[wasm4-img]: https://img.shields.io/badge/WASM%204--lightgrey?logo=webassembly&style=social
+[wasm4-img]: https://img.shields.io/badge/WASM–4--lightgrey?logo=webassembly&style=social
 
 [nushell-url]: https://www.nushell.sh/
 [nushell-img]: https://img.shields.io/badge/Nushell--lightgrey?logo=rust&style=social
