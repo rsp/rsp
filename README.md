@@ -12,6 +12,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 ✍️
 [![Medium][medium-followers-img]][medium-url]
 [![Quora][quora-followers-img]][quora-url]
+[![DEV][devto-img]][devto-url]
 [![Wikipedia][wikipedia-contributions-img]][wikipedia-contributions-url]
 
 🗣
@@ -39,9 +40,10 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Git][git-img]][git-url]
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
-[![Go][go-img]][go-url]
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][wasm-img]][wasm-url]
+<!--
+-->
 
 💻
 [![Debian][debian-img]][debian-url]
@@ -49,6 +51,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Alpine][alpine-img]][alpine-url]
 [![GNU][gnu-img]][gnu-url]
 [![Linux][linux-img]][linux-url]
+[![Init Freedom][initfreedom-img]][initfreedom-url]
 <!--
 [![Void][void-img]][void-url]
 [![SmartOS][smartos-img]][smartos-url]
@@ -69,6 +72,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 ⌨️
 [![Vim][vim-img]][vim-url]
+[![Neovim][neovim-img]][neovim-url]
 [![Sublime][sublime-img]][sublime-url]
 [![Atom][atom-img]][atom-url]
 [![Brackets][brackets-img]][brackets-url]
@@ -76,8 +80,14 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 🔥
 [![WASI][wasi-img]][wasi-url]
+[![Spin][spin-img]][spin-url]
 [![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
+[![Nushell][nushell-img]][nushell-url]
+
+👀
+[![Go][go-img]][go-url]
+[![Yew][yew-img]][yew-url]
 [![Hubris][hubris-img]][hubris-url]
 [![Redox][redox-img]][redox-url]
 [![BoksOS][boksos-img]][boksos-url]
@@ -99,6 +109,19 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[nushell-url]: https://www.nushell.sh/
+[nushell-img]: https://img.shields.io/badge/Nushell--lightgrey?logo=rust&style=social
+
+
+[spin-url]: https://spin.fermyon.dev/
+[spin-img]: https://img.shields.io/badge/Spin--lightgrey?logo=webassembly&style=social
+
+[yew-url]: https://yew.rs/
+[yew-img]: https://img.shields.io/badge/Yew--lightgrey?logo=rust&style=social
+
+[neovim-url]: https://neovim.io/
+[neovim-img]: https://img.shields.io/badge/Neovim--lightgrey?logo=neovim&style=social
 
 [travisci-img]: https://img.shields.io/badge/Travis--lightgrey?logo=travisci&style=social
 [travisci-url]: https://www.travis-ci.com/
@@ -256,7 +279,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [wikipedia-contributions-img]: https://img.shields.io/badge/Wikipedia_Contributions-4.8k-lightgrey?logo=wikipedia&style=social
 [wikipedia-contributions-url]: https://en.wikipedia.org/wiki/Special:Contributions/Rfl
 
-[dev-url]: https://dev.to/rsp
+[devto-img]: https://img.shields.io/badge/Follow_on_DEV--lightgrey?logo=devdotto&style=social
+[devto-url]: https://dev.to/rsp
 
 [youtube-watch-img]: https://img.shields.io/badge/Watch_on_YouTube--lightgrey?logo=youtube&style=social
 [youtube-playlist-url]: https://www.youtube.com/playlist?list=PL0S-JSr7S95cBg0bT22T3cXYqUYUqU219
@@ -309,7 +333,11 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [photo-talks-img]: https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg
 [photo-architechture-img]: https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg
 
-[pocztarski-talks-img]: https://img.shields.io/badge/More%20on%20pocztarski.com--lightgrey?logo=&style=social
+[pocztarski-talks-img]: https://img.shields.io/badge/Talks%20on%20Pocztarski.com--lightgrey?logo=&style=social
 [pocztarski-url]: https://pocztarski.com/
+
+[initfreedom-img]: https://img.shields.io/badge/Init%20Freedom--lightgrey?logo=devuan&style=social
+[initfreedom-url]: https://www.devuan.org/os/init-freedom
+
 
 <img src="https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg" width="100%">
