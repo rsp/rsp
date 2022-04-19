@@ -41,7 +41,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
 [![Zig][zig-img]][zig-url]
-[![WebAssembly][wasm-img]][wasm-url]
+[![WebAssembly][webassembly-img]][webassembly-url]
 <!--
 -->
 
@@ -94,6 +94,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Zen][zenos-img]][zenos-url]
 
 𝝺𝘅
+[![WASM][wasm-img]][wasm-url]
 [![TypeScript][ts-img]][ts-url]
 [![AssemblyScript][assemblyscript-img]][assemblyscript-url]
 [![Rust][rust-img]][rust-url]
@@ -261,8 +262,11 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [zig-img]: https://img.shields.io/badge/Zig--lightgrey?logo=zig&style=social
 [zig-url]: https://ziglang.org/
 
-[wasm-img]: https://img.shields.io/badge/WebAssembly--lightgrey?logo=webassembly&style=social
-[wasm-url]: https://webassembly.org/
+[webassembly-img]: https://img.shields.io/badge/WebAssembly--lightgrey?logo=webassembly&style=social
+[webassembly-url]: https://webassembly.org/
+
+[wwasm-img]: https://img.shields.io/badge/WASM--lightgrey?logo=webassembly&style=social
+[wwasm-url]: https://webassembly.org/
 
 [wasi-img]: https://img.shields.io/badge/WASI--lightgrey?logo=webassembly&style=social
 [wasi-url]: https://wasi.dev/
