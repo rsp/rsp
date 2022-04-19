@@ -127,7 +127,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [odin-url]: https://odin-lang.org/
 
 [raku-img]: https://img.shields.io/badge/Raku--lightgrey?logo=raku&style=social
-[raku-img]: https://www.raku.org/
+[raku-url]: https://www.raku.org/
 
 [perl-img]: https://img.shields.io/badge/Perl--lightgrey?logo=perl&style=social
 [perl-img]: https://www.raku.org/
