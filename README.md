@@ -95,6 +95,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 𝝺𝘅
 [![WASM][wasm-img]][wasm-url]
+[![WASI][wasi-img]][wasi-url]
 [![TypeScript][ts-img]][ts-url]
 [![AssemblyScript][assemblyscript-img]][assemblyscript-url]
 [![Rust][rust-img]][rust-url]
