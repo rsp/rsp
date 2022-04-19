@@ -24,8 +24,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 🏢
 [![Backend][backend-img]][backend-url]
 [![API][api-img]][api-url]
-[![JavaScript][js-img]][js-url]
-[![TypeScript][ts-img]][ts-url]
+[![JavaScript][javascript-img]][javascript-url]
+[![TypeScript][typescript-img]][typescript-url]
 [![Node.js][node-img]][node-url]
 [![JSON][json-img]][json-url]
 [![OpenAPI][openapiinitiative-img]][openapiinitiative-url]
@@ -92,11 +92,13 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Redox][redox-img]][redox-url]
 [![BoksOS][boksos-img]][boksos-url]
 [![Zen][zenos-img]][zenos-url]
+[![Raku][raku-img]][raku-url]
 
 𝝺𝘅
 [![WASM][wasm-img]][wasm-url]
 [![WASI][wasi-img]][wasi-url]
-[![TypeScript][ts-img]][ts-url]
+[![TC39][tc39-img]][tc39-url]
+[![TS][ts-img]][ts-url]
 [![AssemblyScript][assemblyscript-img]][assemblyscript-url]
 [![Rust][rust-img]][rust-url]
 [![Zig][zig-img]][zig-url]
@@ -123,6 +125,12 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 
 [odin-img]: https://img.shields.io/badge/Odin--lightgrey?logo=odin&style=social
 [odin-url]: https://odin-lang.org/
+
+[raku-img]: https://img.shields.io/badge/Raku--lightgrey?logo=raku&style=social
+[raku-img]: https://www.raku.org/
+
+[perl-img]: https://img.shields.io/badge/Perl--lightgrey?logo=perl&style=social
+[perl-img]: https://www.raku.org/
 
 [assemblyscript-url]: https://www.assemblyscript.org/
 [assemblyscript-img]: https://img.shields.io/badge/AssemblyScript--lightgrey?logo=assemblyscript&style=social
@@ -230,10 +238,19 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [backend-img]: https://img.shields.io/badge/⚙️%20Backend--lightgrey?logo=&style=social
 [backend-url]: https://en.wikipedia.org/wiki/Frontend_and_backend
 
-[js-img]: https://img.shields.io/badge/JavaScript--lightgrey?logo=javascript&style=social
-[js-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
+[javascript-img]: https://img.shields.io/badge/JavaScript--lightgrey?logo=javascript&style=social
+[javascript-url]: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
 
-[ts-img]: https://img.shields.io/badge/TypeScript--lightgrey?logo=typescript&style=social
+[js-img]: https://img.shields.io/badge/JS--lightgrey?logo=javascript&style=social
+[js-url]: https://tc39.es/
+
+[tc39-img]: https://img.shields.io/badge/TC39--lightgrey?logo=javascript&style=social
+[tc39-url]: https://tc39.es/
+
+[typescript-img]: https://img.shields.io/badge/TypeScript--lightgrey?logo=typescript&style=social
+[typescript-url]: https://www.typescriptlang.org/
+
+[ts-img]: https://img.shields.io/badge/TS--lightgrey?logo=typescript&style=social
 [ts-url]: https://www.typescriptlang.org/
 
 [node-img]: https://img.shields.io/badge/Node.js--lightgrey?logo=node.js&style=social
