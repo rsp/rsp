@@ -87,13 +87,20 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![WASM-4][wasm4-img]][wasm4-url]
 
 👀
-[![Go][go-img]][go-url]
 [![TinyGo][tinygo-img]][tinygo-url]
-[![Yew][yew-img]][yew-url]
 [![Hubris][hubris-img]][hubris-url]
 [![Redox][redox-img]][redox-url]
 [![BoksOS][boksos-img]][boksos-url]
 [![Zen][zenos-img]][zenos-url]
+
+𝝺𝘅
+[![TypeScript][ts-img]][ts-url]
+[![AssemblyScript][assemblyscript-img]][assemblyscript-url]
+[![Rust][rust-img]][rust-url]
+[![Zig][zig-img]][zig-url]
+[![Go][go-img]][go-url]
+[![Odin][odin-img]][odin-url]
+[![Nim][nim-img]][nim-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
@@ -112,8 +119,17 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
 
+[odin-img]: https://img.shields.io/badge/Odin--lightgrey?logo=odin&style=social
+[odin-url]: https://odin-lang.org/
+
+[assemblyscript-url]: https://www.assemblyscript.org/
+[assemblyscript-img]: https://img.shields.io/badge/AssemblyScript--lightgrey?logo=assemblyscript&style=social
+
 [wasm4-url]: https://wasm4.org/
 [wasm4-img]: https://img.shields.io/badge/WASM–4--lightgrey?logo=webassembly&style=social
+
+[nim-url]: https://nim-lang.org/
+[nim-img]: https://img.shields.io/badge/Nim--lightgrey?logo=nim&style=social
 
 [nushell-url]: https://www.nushell.sh/
 [nushell-img]: https://img.shields.io/badge/Nushell--lightgrey?logo=rust&style=social
