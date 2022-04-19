@@ -266,8 +266,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [webassembly-img]: https://img.shields.io/badge/WebAssembly--lightgrey?logo=webassembly&style=social
 [webassembly-url]: https://webassembly.org/
 
-[wwasm-img]: https://img.shields.io/badge/WASM--lightgrey?logo=webassembly&style=social
-[wwasm-url]: https://webassembly.org/
+[wasm-img]: https://img.shields.io/badge/WASM--lightgrey?logo=webassembly&style=social
+[wasm-url]: https://webassembly.org/
 
 [wasi-img]: https://img.shields.io/badge/WASI--lightgrey?logo=webassembly&style=social
 [wasi-url]: https://wasi.dev/
