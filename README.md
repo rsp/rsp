@@ -42,9 +42,8 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Rust][rust-img]][rust-url]
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][webassembly-img]][webassembly-url]
-<!--
--->
 
+<!--
 💻
 [![Debian][debian-img]][debian-url]
 [![Ubuntu][ubuntu-img]][ubuntu-url]
@@ -52,6 +51,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![GNU][gnu-img]][gnu-url]
 [![Linux][linux-img]][linux-url]
 [![Init Freedom][initfreedom-img]][initfreedom-url]
+-->
 <!--
 [![Void][void-img]][void-url]
 [![SmartOS][smartos-img]][smartos-url]
@@ -69,7 +69,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 <!--
 [![GitHub][github-img]][github-url]
 -->
-
+<!--
 ⌨️
 [![Vim][vim-img]][vim-url]
 [![Neovim][neovim-img]][neovim-url]
@@ -77,7 +77,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Atom][atom-img]][atom-url]
 [![Brackets][brackets-img]][brackets-url]
 [![VSCode][vscode-img]][vscode-url]
-
+-->
 🔥
 [![WASI][wasi-img]][wasi-url]
 [![Spin][spin-img]][spin-url]
@@ -86,6 +86,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Nushell][nushell-img]][nushell-url]
 [![WASM-4][wasm4-img]][wasm4-url]
 
+<!--
 👀
 [![TinyGo][tinygo-img]][tinygo-url]
 [![Hubris][hubris-img]][hubris-url]
@@ -93,6 +94,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![BoksOS][boksos-img]][boksos-url]
 [![Zen][zenos-img]][zenos-url]
 [![Raku][raku-img]][raku-url]
+-->
 
 𝝺𝘅
 [![WASM][wasm-img]][wasm-url]
@@ -107,6 +109,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Nim][nim-img]][nim-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
+[![Codewars][codewars-small-img]][codewars-url]
 
 <!--
 [![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
@@ -385,5 +388,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [initfreedom-img]: https://img.shields.io/badge/Init%20Freedom--lightgrey?logo=devuan&style=social
 [initfreedom-url]: https://www.devuan.org/os/init-freedom
 
+[codewars-large-img]: https://www.codewars.com/users/pocztarski/badges/large
+[codewars-small-img]: https://www.codewars.com/users/pocztarski/badges/small
+[codewars-micro-img]: https://www.codewars.com/users/pocztarski/badges/micro
+[codewars-url]: https://www.codewars.com/users/pocztarski
 
 <img src="https://pocztarski.com/67096777_1304512593052186_1932830111782928384_o-c1-q70.jpg" width="100%">
