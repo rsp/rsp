@@ -62,11 +62,11 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Bash][bash-img]][bash-url]
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
-[![Vagrant][vagrant-img]][vagrant-url]
 [![TravisCI][travisci-img]][travisci-url]
 [![CircleCI][circleci-img]][circleci-url]
 [![GitHub Actions][githubactions-img]][githubactions-url]
 <!--
+[![Vagrant][vagrant-img]][vagrant-url]
 [![GitHub][github-img]][github-url]
 -->
 <!--
@@ -83,8 +83,10 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Spin][spin-img]][spin-url]
 [![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
-[![Nushell][nushell-img]][nushell-url]
 [![WASM-4][wasm4-img]][wasm4-url]
+<!--
+[![Nushell][nushell-img]][nushell-url]
+-->
 
 <!--
 👀
@@ -109,6 +111,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Nim][nim-img]][nim-url]
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
+<br>
 [![Codewars][codewars-small-img]][codewars-url]
 
 <!--
