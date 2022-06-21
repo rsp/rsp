@@ -111,7 +111,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Nim][nim-img]][nim-url]
 
 [![Codewars][codewars-small-img]][codewars-url]
-<br>
+
 [![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 <!--
