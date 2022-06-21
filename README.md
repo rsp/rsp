@@ -110,9 +110,9 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Odin][odin-img]][odin-url]
 [![Nim][nim-img]][nim-url]
 
-[![Stack Exchange][stackexchange-img]][stackoverflow-url]
-<br>
 [![Codewars][codewars-small-img]][codewars-url]
+<br>
+[![Stack Exchange][stackexchange-img]][stackoverflow-url]
 
 <!--
 [![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
