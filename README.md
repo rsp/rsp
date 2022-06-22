@@ -42,6 +42,7 @@ Currently building custom backend APIs using TypeScript/Node.js for the insurtec
 💖
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
+[![NASM][nasm-img]][nasm-url]
 [![Zig][zig-img]][zig-url]
 [![WebAssembly][webassembly-img]][webassembly-url]
 [![WASI][wasi-img]][wasi-url]
@@ -138,6 +139,9 @@ Currently building custom backend APIs using TypeScript/Node.js for the insurtec
 [![Ethereum][ethereum-reputation-img]][ethereum-url]
 [![Database Administrators][dba-reputation-img]][dba-url]
 -->
+
+[nasm-img]: https://img.shields.io/badge/NASM--lightgrey?logo=nasm&style=social
+[nasm-url]: https://www.nasm.us/
 
 [odin-img]: https://img.shields.io/badge/Odin--lightgrey?logo=odin&style=social
 [odin-url]: https://odin-lang.org/
