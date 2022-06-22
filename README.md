@@ -39,14 +39,17 @@ Currently building custom backend APIs using TypeScript/Node.js for the insurtec
 [![Kubernetes][kubernetes-img]][kubernetes-url]
 -->
 
-<!-- 💖
+💖
+<!--
 [![Open Source][opensource-img]][osi-url]
 [![Free Software][freesoftware-img]][fsf-url]
 [![Git][git-img]][git-url]
+-->
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
 [![Zig][zig-img]][zig-url]
-[![WebAssembly][webassembly-img]][webassembly-url] -->
+[![WebAssembly][webassembly-img]][webassembly-url]
+[![WASI][wasi-img]][wasi-url]
 
 <!--
 💻
