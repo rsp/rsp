@@ -1,8 +1,12 @@
 <img src="https://pocztarski.com/rsp-li-banner-03-2435x198-q70.jpg" width="100%">
 
-Programming since I was 6, professionally since I was 16.
+### Programming since I was 6, professionally since I was 16.
 
-I got obsessed with programming when I was a kid and hasn't recovered since then.
+#### I got obsessed with programming when I was a kid and hasn't recovered since then.
+
+Currently building custom backend APIs using TypeScript/Node.js for the insurtech industry at Beesafe, Vienna Insurance Group.
+
+# 💖[![Stack Exchange][stackexchange-img]][stackoverflow-url][![Codewars][codewars-small-img]][codewars-url]❤️‍🔥
 
 🤝
 [![GitHub Followers][github-followers-img]][github-followers-url]
@@ -29,19 +33,20 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Node.js][node-img]][node-url]
 [![JSON][json-img]][json-url]
 [![OpenAPI][openapiinitiative-img]][openapiinitiative-url]
+
 <!--
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
 -->
 
-💖
+<!-- 💖
 [![Open Source][opensource-img]][osi-url]
 [![Free Software][freesoftware-img]][fsf-url]
 [![Git][git-img]][git-url]
 [![Deno][deno-img]][deno-url]
 [![Rust][rust-img]][rust-url]
 [![Zig][zig-img]][zig-url]
-[![WebAssembly][webassembly-img]][webassembly-url]
+[![WebAssembly][webassembly-img]][webassembly-url] -->
 
 <!--
 💻
@@ -58,6 +63,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![illumos][illumos-img]][illumos-url]
 -->
 
+<!--
 👍
 [![Bash][bash-img]][bash-url]
 [![Docker][docker-img]][docker-url]
@@ -65,6 +71,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![TravisCI][travisci-img]][travisci-url]
 [![CircleCI][circleci-img]][circleci-url]
 [![GitHub Actions][githubactions-img]][githubactions-url]
+-->
 <!--
 [![Vagrant][vagrant-img]][vagrant-url]
 [![GitHub][github-img]][github-url]
@@ -78,12 +85,14 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Brackets][brackets-img]][brackets-url]
 [![VSCode][vscode-img]][vscode-url]
 -->
+<!--
 🔥
 [![WASI][wasi-img]][wasi-url]
 [![Spin][spin-img]][spin-url]
 [![Code Spaces][codespaces-img]][codespaces-url]
 [![Zed][zed-img]][zed-url]
 [![WASM-4][wasm4-img]][wasm4-url]
+-->
 <!--
 [![Nushell][nushell-img]][nushell-url]
 -->
@@ -98,6 +107,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Raku][raku-img]][raku-url]
 -->
 
+<!--
 𝝺𝘅
 [![WASM][wasm-img]][wasm-url]
 [![WASI][wasi-img]][wasi-url]
@@ -109,10 +119,7 @@ I got obsessed with programming when I was a kid and hasn't recovered since then
 [![Go][go-img]][go-url]
 [![Odin][odin-img]][odin-url]
 [![Nim][nim-img]][nim-url]
-
-[![Codewars][codewars-small-img]][codewars-url]
-
-[![Stack Exchange][stackexchange-img]][stackoverflow-url]
+-->
 
 <!--
 [![Stack Overflow][stackoverflow-reputation-img]][stackoverflow-url]
