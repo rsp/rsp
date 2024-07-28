@@ -2,7 +2,7 @@
 
 ### Programming since I was 6, professionally since I was 16.
 
-#### I got obsessed with programming when I was a kid and hasn't recovered since then.
+#### I got obsessed with programming when I was a kid and haven't recovered since then.
 
 Currently building custom backend APIs and Platform tooling and libraies using TypeScript/Node.js for FinTech and Web3.
 
