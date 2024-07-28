@@ -6,7 +6,7 @@
 
 #### 👉 Building custom backend APIs and Platform tooling and libraries with TypeScript/Node.js for FinTech and Web3.
 
-### 🚀 Next direction: Go programming languaage (a new passion) 💖
+### 🚀 Next direction: Go programming language (a new passion) 💖
 
 [![Stack Exchange][stackexchange-img]][stackoverflow-url][![Codewars][codewars-small-img]][codewars-url]
 
