@@ -10,6 +10,7 @@ Next direction: Go programming languaage (a new passion) 💖
 
 # 💖[![Stack Exchange][stackexchange-img]][stackoverflow-url][![Codewars][codewars-small-img]][codewars-url]❤️‍🔥
 
+<!--
 🤝
 [![GitHub Followers][github-followers-img]][github-followers-url]
 [![Twitter Followers][twitter-followers-img]][twitter-followers-url]
@@ -26,23 +27,27 @@ Next direction: Go programming languaage (a new passion) 💖
 [![Spotify][spotify-listen-img]][spotify-playlist-url]
 [![Crossweb][crossweb-talks-img]][crossweb-url]
 [![Pocztarski.com][pocztarski-talks-img]][pocztarski-url]
-
+-->
 🏢
 [![Backend][backend-img]][backend-url]
 [![API][api-img]][api-url]
 [![JavaScript][javascript-img]][javascript-url]
 [![TypeScript][typescript-img]][typescript-url]
 [![Node.js][node-img]][node-url]
+<!--
 [![JSON][json-img]][json-url]
 [![OpenAPI][openapiinitiative-img]][openapiinitiative-url]
-
-<!--
+-->
 [![Docker][docker-img]][docker-url]
 [![Kubernetes][kubernetes-img]][kubernetes-url]
--->
 
 💖
+[![Node.js][node-img]][node-url]
 [![Deno][deno-img]][deno-url]
+[![Bun][bun-img]][bun-url]
+[![Go][go-img]][go-url]
+
+<!--
 [![Rust][rust-img]][rust-url]
 [![NASM][nasm-img]][nasm-url]
 [![Zig][zig-img]][zig-url]
