@@ -6,6 +6,8 @@
 
 Currently building custom backend APIs and Platform tooling and libraies using TypeScript/Node.js for FinTech and Web3.
 
+Next direction: Go programming languaage (a new passion) 💖
+
 # 💖[![Stack Exchange][stackexchange-img]][stackoverflow-url][![Codewars][codewars-small-img]][codewars-url]❤️‍🔥
 
 🤝
