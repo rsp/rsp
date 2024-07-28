@@ -4,7 +4,7 @@
 
 #### I got obsessed with programming when I was a kid and hasn't recovered since then.
 
-Currently building custom backend APIs using TypeScript/Node.js for the insurtech industry at Beesafe, Vienna Insurance Group.
+Currently building custom backend APIs and Platform tooling and libraies using TypeScript/Node.js for FinTech and Web3.
 
 # 💖[![Stack Exchange][stackexchange-img]][stackoverflow-url][![Codewars][codewars-small-img]][codewars-url]❤️‍🔥
 
