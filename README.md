@@ -4,7 +4,7 @@
 
 #### I got obsessed with programming when I was a kid and haven't recovered since then.
 
-#### 👉 Building custom backend APIs and Platform tooling and libraies using TypeScript/Node.js for FinTech and Web3.
+#### 👉 Building custom backend APIs and Platform tooling and libraries with TypeScript/Node.js for FinTech and Web3.
 
 ### 🚀 Next direction: Go programming languaage (a new passion) 💖
 
