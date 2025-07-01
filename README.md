@@ -4,11 +4,16 @@
 
 #### I got obsessed with programming when I was a kid and haven't recovered since then.
 
-#### Now I'm building custom backend APIs and Platform tooling and libraries with TypeScript/Node.js for FinTech and Web3.
+### Working at Paramount
 
-### 🚀 Next direction: Go programming language (a new passion) 💖
+<a href="https://www.paramount.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/1/1e/Paramount_Global.svg" height="128"></a>
 
-[![Stack Exchange][stackexchange-img]][stackoverflow-url][![Codewars][codewars-small-img]][codewars-url]
+### Writing on Stack Overflow
+
+[![Stack Exchange][stackexchange-img]][stackoverflow-url]
+### Playing at Codewars <!-- <img src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" height="12"/> -->
+
+[![Codewars][codewars-small-img]][codewars-url]
 
 <!--
 🤝
