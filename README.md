@@ -8,7 +8,7 @@
 
 <!-- <a href="https://www.paramount.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/1/1e/Paramount_Global.svg" height="128"></a> -->
 <!-- <a href="https://www.paramount.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/e/e7/Paramount_Skydance_Logo.svg" height="128"></a> -->
-<a href="https://www.paramount.com/" target="_blank"><img src="https://github.com/paramount-streaming" height="128"></a>
+<a href="https://www.paramount.com/" target="_blank"><img src="https://github.com/paramount-streaming.png" height="128"></a>
 
 ### Writing on Stack Overflow
 
